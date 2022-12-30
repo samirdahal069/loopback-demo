@@ -62,7 +62,7 @@
     "tslib": "^2.0.0"
   },
   "devDependencies": {
-    "@loopback/build": "^5.4.2",
+    "@loopback/build": "^5.4.3",
     "@loopback/eslint-config": "^8.0.0",
     "@loopback/testlab": "^3.1.6",
     "@types/bcryptjs": "^2.4.2",
